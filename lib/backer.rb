@@ -6,8 +6,8 @@ def initialize(name)
   @name = name
 end
 
-def back_project(project)
-  p = Project.new(project)
+def back_project(title)
+  p = Project.new(title)
   @backed_projects << p
   p.backer = self
 end
