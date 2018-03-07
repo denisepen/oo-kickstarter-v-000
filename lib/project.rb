@@ -7,10 +7,10 @@ class Project
     @title = title
   end
 
-  def add_backer(name)
+  def add_backer(backer)
     # p = Project.new(title)
     #
-    # @backers <<
+    # @backers << backers
 
   end
 
