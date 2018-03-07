@@ -9,8 +9,8 @@ class Project
 
   def add_backer(name)
     # p = Project.new(title)
-    # 
-    # @backers << 
+    #
+    # @backers <<
 
   end
 
