@@ -9,7 +9,7 @@ end
 def back_project(project)
   # p = Project.new(title)
   @backed_projects << project
-  p.backer = self
+  # p.backer = self
 end
 
 end
